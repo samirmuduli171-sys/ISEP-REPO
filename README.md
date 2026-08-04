@@ -1,4 +1,4 @@
 # ISEP-REPO
 My First Repo 
-print("/n")
+print(/n)
 hey there, sam this side
